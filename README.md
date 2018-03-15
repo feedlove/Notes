@@ -6,7 +6,7 @@
 2. git add <file>
     * git add -p
 3. git commit
-#configuration 
+#configuration
 ![configuration ](/assets/QQ图片20180315141641.png)
 
 #commit 
