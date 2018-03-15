@@ -1,3 +1,9 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#[pro git.pdf](http://git.oschina.net/progit/)
+#Start a project
+1. git init
+2. git config --global user.name "you@example.com"
+2. git config --global user.name "name"
+2. git add <file>
+3. git commit
+#configuration 
+![configuration ](/assets/QQ图片20180315141641.png)
