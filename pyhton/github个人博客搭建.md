@@ -1,4 +1,3 @@
-
 要完成自己的github.io博客网站，总共分三步：
 
 开通自己的github.io repo
